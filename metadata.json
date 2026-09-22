@@ -1,0 +1,6 @@
+{
+  "name": "Blogger XML Sitemap Generator",
+  "description": "Generate a complete Google XML sitemap and custom robots.txt for Blogger and Blogspot blogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
